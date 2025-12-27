@@ -1,0 +1,7 @@
+{
+  "name": "ScholarFlow - Offline Fee Manager",
+  "description": "A comprehensive, offline-first academic fee management system. Tracks students, payments, and dues with visual analytics and AI-powered financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
